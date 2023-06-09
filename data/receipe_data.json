@@ -1,0 +1,92 @@
+{
+    "chef_id": 1,
+    "chef_name": "Rahima Begum",
+    "recipes": [
+        {
+            "recipe_id": 1,
+            "recipe_name": "Bhuna Khichuri",
+            "ingredients": [
+                "1 cup basmati rice",
+                "1/2 cup split yellow lentils (moong dal)",
+                "1/2 cup chopped onions",
+                "2 tablespoons ghee",
+                "1 teaspoon cumin seeds",
+                "2 cloves",
+                "2 cardamom pods",
+                "1 cinnamon stick",
+                "1 teaspoon ginger paste",
+                "1 teaspoon garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon cumin powder",
+                "1 teaspoon coriander powder",
+                "Salt to taste",
+                "4 cups water",
+                "Fresh coriander leaves for garnish"
+            ],
+            "cooking_method": [
+                "Wash the rice and lentils together and soak them in water for 30 minutes. Drain and set aside.",
+                "Heat ghee in a large pan or pressure cooker over medium heat.",
+                "Add cumin seeds, cloves, cardamom pods, and cinnamon stick. Sauté for a minute until fragrant.",
+                "Add chopped onions and sauté until they turn golden brown.",
+                "Add ginger paste and garlic paste. Sauté for a minute until the raw smell disappears.",
+                "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+                "Add the drained rice and lentils to the pan. Stir and cook for a couple of minutes to coat them with the spices.",
+                "Add water and give it a good stir. If using a pressure cooker, close the lid and cook for 2 whistles. If using a pan, cover and cook until the rice and lentils are tender (approximately 20-25 minutes).",
+                "Once cooked, let the pressure release naturally if using a pressure cooker.",
+                "Garnish with fresh coriander leaves and serve hot."
+            ]
+        },
+        {
+            "recipe_id": 2,
+            "recipe_name": "Hilsa Curry",
+            "ingredients": [
+                "500 grams Hilsa fish",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "Salt to taste",
+                "4 tablespoons mustard oil",
+                "1 teaspoon mustard seeds",
+                "2 green chilies, slit",
+                "1 teaspoon nigella seeds (kalonji)",
+                "1 teaspoon grated ginger",
+                "4 tablespoons mustard paste",
+                "1 cup warm water"
+            ],
+            "cooking_method": [
+                "Clean and wash the Hilsa fish. Cut it into pieces and marinate with turmeric powder, red chili powder, and salt. Keep aside for 15 minutes.",
+                "Heat mustard oil in a pan over medium heat.",
+                "Add mustard seeds and let them splutter.",
+                "Add green chilies, nigella seeds, and grated ginger. Sauté for a minute.",
+                "Add the marinated fish pieces to the pan. Fry them lightly on both sides until golden brown. Remove from the pan and keep aside.",
+                "In the same pan, add mustard paste and cook for a minute.",
+                "Add warm water and stir well to form a smooth gravy.",
+                "Add fried fish pieces back to the pan and gently coat them with the gravy.",
+                "Cover the pan and simmer for 10-15 minutes until the fish is cooked through and the flavors are well incorporated.",
+                "Serve hot with steamed rice."
+            ]
+        },
+        {
+            "recipe_id": 3,
+            "recipe_name": "Pitha",
+            "ingredients": [
+                "2 cups rice flour",
+                "1 cup grated coconut",
+                "1 cup jaggery (gur), grated",
+                "1/2 teaspoon cardamom powder",
+                "1/4 teaspoon salt",
+                "Water as needed",
+                "Banana leaves for steaming"
+            ],
+            "cooking_method": [
+                "In a bowl, combine rice flour, grated coconut, grated jaggery, cardamom powder, and salt.",
+                "Gradually add water and knead the mixture to form a smooth dough. The dough should hold its shape when pressed.",
+                "Divide the dough into small portions and shape them into flat discs or cylindrical shapes.",
+                "Heat water in a steamer. Line the steamer basket with banana leaves.",
+                "Place the shaped dough on the banana leaves and steam for about 15-20 minutes until the pithas are cooked and firm.",
+                "Remove from the steamer and let them cool slightly before serving.",
+                "Pithas can be served as a snack or dessert."
+            ]
+        }
+    ]
+}
