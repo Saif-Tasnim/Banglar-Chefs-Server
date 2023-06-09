@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "Rahima Begum",
+        "years_of_experience": 12,
+        "num_recipes": 150,
+        "bio": "Rahima Begum is a renowned chef specializing in traditional Bangladeshi cuisine. With over 12 years of experience in the culinary world, she has mastered the art of creating authentic flavors. Her dishes are known for their aromatic spices and rich taste. Rahima has been featured in various cooking shows and has published several cookbooks.",
+        "recipes": [
+            "Bhuna Khichuri",
+            "Hilsa Curry",
+            "Pitha",
+            "Morog Pulao",
+            "Shorshe Bata Chingri",
+            "Shemai"
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Kamal Hossain",
+        "years_of_experience": 8,
+        "num_recipes": 90,
+        "bio": "Kamal Hossain is a talented chef with a passion for fusion cuisine. He combines traditional Bangladeshi flavors with modern techniques to create unique and innovative dishes. With 8 years of experience, Kamal has established himself as a creative force in the culinary industry. His recipes often showcase the diversity of Bangladeshi ingredients.",
+        "recipes": [
+            "Shorshe Ilish",
+            "Chitol Macher Muitha",
+            "Chocolate Gulab Jamun",
+            "Butter Chicken Bharta",
+            "Thai Green Curry with Prawns",
+            "Mango Panna Cotta"
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_name": "Nusrat Jahan",
+        "years_of_experience": 15,
+        "num_recipes": 200,
+        "bio": "Nusrat Jahan is an internationally acclaimed chef who has brought global recognition to Bangladeshi cuisine. With 15 years of experience, she has honed her skills in both traditional and contemporary cooking. Nusrat is known for her creative approach and ability to infuse flavors from different cultures into her dishes.",
+        "recipes": [
+            "Shahi Biriyani",
+            "Macher Kalia",
+            "Mango Firni",
+            "Chicken Tikka Masala",
+            "Rogan Josh",
+            "Chocolate Mousse"
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://example.com/chef4.jpg",
+        "chef_name": "Ahmed Ali",
+        "years_of_experience": 10,
+        "num_recipes": 120,
+        "bio": "Ahmed Ali is a passionate chef specializing in street food delicacies. With a decade of experience, he has perfected the art of creating flavorsome snacks and appetizers that are beloved by food enthusiasts. Ahmed is often seen exploring the bustling streets of Dhaka, discovering hidden gems and transforming them into culinary delights.",
+        "recipes": [
+            "Fuchka",
+            "Jhalmuri",
+            "Chicken Chap",
+            "Kathi Roll",
+            "Aloo Tikki Chaat",
+            "Chicken Shawarma"
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://example.com/chef5.jpg",
+        "chef_name": "Farhana Rahman",
+        "years_of_experience": 6,
+        "num_recipes": 70,
+        "bio": "Farhana Rahman is a rising star in the culinary world, known for her modern twist on traditional Bangladeshi dishes. With 6 years of experience, she has already made a name for herself with her innovative recipes and presentation. Farhana's creations often showcase the harmony of flavors and textures.",
+        "recipes": [
+            "Chicken Bhuna",
+            "Bengali Polao",
+            "Panna Cotta with Gondhoraj Lebu",
+            "Beef Korma",
+            "Spicy Grilled Fish",
+            "Blueberry Cheesecake"
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_name": "Abdul Haque",
+        "years_of_experience": 20,
+        "num_recipes": 250,
+        "bio": "Abdul Haque is a veteran chef who has dedicated his life to preserving and promoting traditional Bangladeshi cuisine. With an impressive 20 years of experience, he is considered a master of age-old recipes passed down through generations. Abdul's expertise lies in creating nostalgic dishes that evoke a sense of heritage.",
+        "recipes": [
+            "Shatkora Murgi",
+            "Kacchi Biriyani",
+            "Roshomalai",
+            "Lamb Bhuna",
+            "Chingri Malai Curry",
+            "Mishti Doi"
+        ]
+    }
+]
